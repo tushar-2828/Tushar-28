@@ -44,27 +44,4 @@ buttonsArray.forEach(btns => {
 
 
 
-
-
-
-// login page // 
-
-// function checkLogin() {
-
-//     var username = document.getElementById("username").value;
-//     var password = document.getElementById("password").value;
-//     var errordiv = document.getElementById("error")
-
-//     if (username === "" || password === "") {
-//         errordiv.textContent = "file the information"
-//         return
-//     }
-    
-//      if (username === "tushar" && password ==="1234") {
-//        alert(`welcome to my aceept`)
-//        document.write(username)
-//     }
-//     else{
-//         errordiv.textContent = "cheak the username and pass  "
-//     }
-// }
+
